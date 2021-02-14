@@ -2,7 +2,7 @@
 
 #### This is a project to help us understand Business Logic better
 
-#### By Saoud Rana and Collin Chapman
+#### By Saoud Rana
 
 ## Technologies Used
 
