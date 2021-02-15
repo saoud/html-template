@@ -1,34 +1,37 @@
-# Saoud's XXXXX project
-
-#### This is a project to help us understand Business Logic better
-
+# Title
+#### 
+#### Project initiated: 
 #### By Saoud Rana
+## Project Description
 
+
+## Specs
+ 
+```
+Describe:
+Test: 
+Expect: 
+ 
+```
+ 
 ## Technologies Used
+* Javascript
+* JQuery
+* HTML
+* CSS
 
-* 
-* 
-* 
-
-## Description
-
-
-
-## Setup/Installation Requirements
-
-* 
-* 
-* 
-
-
+## Set up / Installation requirements
+* Open up a terminal and clone the repo 
+* Navigate to the folder containing the files from the repo and type `code . `
+* You can also use [LiveServer](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
+ 
 ## Known Bugs
+* No known bugs
 
-No known bugs at this time
+## Notes
 
 ## License
-
-MIT
-
-## Contact Information
-
-githubissues@saoud.dev
+* [MIT](https://choosealicense.com/licenses/mit)
+* Copyright 2021 Saoud Rana
+## Contact
+Saoud Rana githubissues@saoud.dev
