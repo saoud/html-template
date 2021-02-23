@@ -31,7 +31,7 @@ Expect:
 ## Notes
 
 ## License
-* [MIT](https://choosealicense.com/licenses/mit)
+* [MIT](https://github.com/saoud/html-template/blob/main/LICENSE)
 * Copyright 2021 Saoud Rana
 ## Contact
 Saoud Rana githubissues@saoud.dev
